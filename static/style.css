@@ -64,7 +64,7 @@ input[type=search] {
     }
 	
 	/* Change two 
-background */
+	background */
     #loader{
         position:fixed;
         left:0;
@@ -74,8 +74,10 @@ background */
         z-index:9999;
         background:#ff3333
     }
+	/* Change three 
+	width and height */
     #loader img{
-        width:48px; height:48px;
+        width:100px; height:100px;
         position:absolute;
         top:50%;
         left:50%;
@@ -112,8 +114,10 @@ article {
     margin: 1em auto;
 }
 
+/* Change four 
+color */
 h1{
-    color:#ff69b4;
+    color:#ffffff;
     font-size:1.5em;
     font-weight:700;
     text-align:center;
@@ -121,16 +125,17 @@ h1{
 }
 
 h1 a {
-    color:#ff69b4;
+    color:#ffffff;
     text-decoration: none;
 }
 
 h1 a:focus, h1 a:hover {
-    color:#4d6ad8;
+    color:#d80000;
 }
 
 #trainer-info {
     width: 14em;
+    color:#ffffff;
     margin: 0 auto 1em
 }
 #trainer-info img{
@@ -168,8 +173,11 @@ nav ul li {
     position:relative
 }
 
+	/* Change five 
+	color */
 nav > ul > li abbr {
     vertical-align:middle;
+	color:#ffffff;
 }
 
 nav > ul > li abbr::after {
@@ -180,9 +188,9 @@ nav ul li a,
 #copy2reddit [data-clipboard-target] {
     display:inline-block;
     margin:0 0.5em 0 0;
-    background-color:#4d6ad8;
+    background-color:#d80000;
     font-weight:700;
-    color:#f0f0f0;
+    color:#ffffff;
     padding:0.5em 0;
     border-radius:0.25em;
     line-height: 1.45;
