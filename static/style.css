@@ -329,7 +329,7 @@ tr.shiny td.name::before,
 }
 
 tr:hover td {
-    background-color: rgba(67,178,224,0.5);
+    background-color: (216, 0, 0, 0.5);
     cursor:cell
 }
 tr.selected td {
