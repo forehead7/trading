@@ -1685,7 +1685,7 @@ body.shiny tbody tr {
     content:"\0025b6"
 }
 #pokemon-info .carousel a:hover::before{
-    color:#4d6ad8;
+    color:#d80000;
     text-shadow: 0 0 1em #f0f0f0
 }
 
