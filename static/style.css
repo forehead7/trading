@@ -261,7 +261,9 @@ h3::after{
 #filters {
     width:90%;
     margin:0 auto;
-    text-align:center
+    text-align:center;
+    background-color:#d80000;
+    color:#f0f0f0;
 }
 
 #filters h3{
