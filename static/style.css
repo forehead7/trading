@@ -230,18 +230,24 @@ nav > ul > li:not(:first-child)::before {
     margin: 0 0.5em 0 0;
 }
 
+/* Change six 
+	color */
 h2{
     background-color:#f0f0f0;
-    color:#4d6ad8;
+    color:#d80000;
     font-size:1.5em;
     font-weight:700;
     margin: 0 0 1em;
     text-align: center
 }
 
+/* Change seven 
+	color */
+
 h3{
     display:inline-block;
     font-size:1em;
+    color:#ffffff;
     line-height:2;
     width:8em;text-indent:1em;
     margin:0;
@@ -289,7 +295,7 @@ thead th.spe { border-bottom-color:#d880ff; }
 thead th.hidden-power { font-size:0.75em; }
 
 td, th {
-    text-align: center;
+    text-align: left;
     padding: 0.375em 0.5em;
     vertical-align: middle;
 }
