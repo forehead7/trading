@@ -262,14 +262,15 @@ h3::after{
     width:90%;
     margin:0 auto;
     text-align:center;
-    background-color:#d80000;
     color:#f0f0f0;
 }
 
 #filters h3{
     display:block;
     width:auto;
-    margin:0 0 0.5em
+    margin:0 0 0.5em;
+	
+    background-color:#d80000;
 }
 
 table {
